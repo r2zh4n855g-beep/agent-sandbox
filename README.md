@@ -8,7 +8,7 @@ dsh-superagent 的测试仓库。用来验证触发、评估、工单、执行�
 
 ## 项目简介
 
-本项目演示如何把 dsh-superagent 接如到日常开发流程中。
+本项目演示如何把 dsh-superagent 接入到日常开发流程中。
 
 ## 目录结构
 
